@@ -1,0 +1,2 @@
+# asterconf
+Lightweight Web Configurator
